@@ -10,6 +10,7 @@ body {
 }
 
 :root {
+  color-scheme: light only;
   --main-bg: #ffffff;
   --secondary: #f4f4f4;
   --border-radius: 10px;
@@ -40,6 +41,11 @@ body {
   }
 }
 
+ul li{
+  margin-left: 1em;
+}
+
+
 .main_menu {
   height: 100vh;
   display: flex;
@@ -47,6 +53,10 @@ body {
   justify-content: center;
   align-items: center;
   gap: 1em;
+}
+
+.notice{
+  padding: 2em;
 }
 
 button.active {

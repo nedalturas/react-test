@@ -49,6 +49,8 @@ document.addEventListener('DOMContentLoaded', () => {
     gameState = 'ended';
     button.textContent = `Your reaction time: ${reactionTime}ms\nClick to restart`;
     button.style.backgroundColor = 'blue';
+    button.style.color = 'white';
+
   }
 
   function resetGame() {
