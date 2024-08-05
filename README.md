@@ -1,3 +1,3 @@
-# react-test
+# Reaction Time Test
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/nedalturas/react-test)
+A simple game to measure your reaction time.
